@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleAndroidHttpServer</string>
+    <string name="start_server">START SERVER</string>
+</resources>
